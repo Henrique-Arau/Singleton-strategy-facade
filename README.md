@@ -1,0 +1,1 @@
+# Singleton-strategy-facade
